@@ -49,10 +49,10 @@ After successfully passing the Security+ exam, I’ve pivoted my focus toward ha
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/27f8d52b-c0bf-4b3b-a395-f864e1324106/linked_in_profile"><img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Coursera&logoColor=white" />
+<a href="https://www.credly.com/badges/16a180b8-cce0-465c-8fdc-81901a88e8bd/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- <a href="https://github.com/dvncp-jpg/Detection-Lab">SOAR-EDR</a>
+- <a href="https://github.com/dvncp-jpg/SOAR-EDR">SOAR-EDR</a>
 - SOC Automation Project
