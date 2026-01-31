@@ -54,5 +54,5 @@ After successfully passing the Security+ exam, I’ve pivoted my focus toward ha
 </div>
 
 ## Projects
-- <a href="https://github.com/dvncp-jpg/Detection-Lab">Detection Lab</a>
+- <a href="https://github.com/dvncp-jpg/Detection-Lab">SOAR-EDR</a>
 - SOC Automation Project
