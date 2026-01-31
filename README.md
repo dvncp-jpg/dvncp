@@ -33,7 +33,6 @@ After successfully passing the Security+ exam, I’ve pivoted my focus toward ha
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-LimaCharlie-33EB91?&style=for-the-badge&logo=Sentry&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
