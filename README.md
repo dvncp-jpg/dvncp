@@ -15,6 +15,7 @@ After successfully passing the Security+ exam, I’ve pivoted my focus toward ha
 <div>
     <img src="https://img.shields.io/badge/-LimaCharlie-33EB91?&style=for-the-badge&logo=Sentry&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Windows%20Defender-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### SIEM
