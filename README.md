@@ -21,6 +21,7 @@ After successfully passing the Security+ exam, I’ve pivoted my focus toward ha
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </div>
 
 ### SOAR
